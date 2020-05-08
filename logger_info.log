@@ -1,0 +1,138 @@
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: wrapper() takes 0 positional arguments but 1 was given
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: wrapper() takes 0 positional arguments but 1 was given
+"GET / HTTP/1.1" 500 63410
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2145
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 10, in wrapper
+    return func1()
+TypeError: 'NoneType' object is not callable
+"GET / HTTP/1.1" 500 67164
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 10, in wrapper
+    return func1(*args,**kwargs)
+TypeError: 'NoneType' object is not callable
+"GET / HTTP/1.1" 500 67192
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 10, in wrapper
+    return func1(*args,**kwargs)
+TypeError: 'NoneType' object is not callable
+"GET / HTTP/1.1" 500 67192
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: wrapper_function() takes 0 positional arguments but 1 was given
+"GET / HTTP/1.1" 500 63804
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 6, in wrapper_function
+    return func(*args,**kwargs)
+TypeError: display_info() takes 0 positional arguments but 1 was given
+"GET / HTTP/1.1" 500 67115
+C:\Users\elcot\wraploggers\wrap\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 6, in wrapper_function
+    return func(*args,**kwargs)
+TypeError: display_info() takes 0 positional arguments but 1 was given
+"GET / HTTP/1.1" 500 67229
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\elcot\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\elcot\wraploggers\wrap\views.py", line 6, in wrapper_function
+    return func(*args,**kwargs)
+TypeError: display_info() takes 0 positional arguments but 1 was given
+"GET / HTTP/1.1" 500 67229
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 15
+C:\Users\elcot\wraploggers\wraploggers\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wrap\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\elcot\wraploggers\wraploggers\settings.py changed, reloading.
